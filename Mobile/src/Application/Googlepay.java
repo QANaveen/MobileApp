@@ -1,4 +1,4 @@
-@snaveen171998@gmail.com
+@QANaveen
 package Application;
 
 public class Googlepay {
