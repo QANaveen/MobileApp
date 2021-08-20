@@ -6,6 +6,7 @@ public class Googlepay {
 		// TODO Auto-generated method stub
 
 		System.out.println("you can transfer your money using Gpay");
+		System.out.println("Hello world");
 	}
 
 }
